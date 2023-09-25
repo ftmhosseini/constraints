@@ -1,7 +1,14 @@
 # constraints
 
-A new Flutter project.
+This Flutter project is an educational mobile application that showcases 29 different types of views that can be built using the `Container` widget. In each view, you'll find seven sequential layouts with unique designs and features. You can choose any number to explore and discover various layout styles and possibilities.
 
+## Features
+
+- Explore 29 different types of views created with the `Container` widget.
+- View seven sequential layouts for each page.
+- Discover creative and practical layout design ideas.
+- Gain insights into Flutter's layout capabilities.
+  
 ## Getting Started
 
 This project is a starting point for a Flutter application.
